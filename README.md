@@ -8,9 +8,11 @@ After completing an analysis for PyBer, a ride-sharing business, the CEO has req
 
 ### Summary DataFrame
 
-![New Results](/analysis/new_summary_df.png)
+![Summary_DataFrame](/analysis/summary_dataset.png)
 
-### 
+### Total Fare by City Type
+
+![Fare_Summary](/analysis/PyBer_fare_summary.png)
 
 ## Summary
 
